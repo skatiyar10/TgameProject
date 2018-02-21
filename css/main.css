@@ -1,0 +1,20 @@
+ p {
+     font-size: 10rem;
+     font-style: italic;
+     text-decoration: underline;
+     margin-left: -500px;
+     text-align: center;
+     text-shadow: 8px 8px;
+ }
+
+ #gameCanvas {
+     width: 200rem;
+     height: 85rem;
+     margin-left: 10rem;
+     border: 100px dashed rgb(100, 29, 222);
+     box-shadow: 30px 30px cadetblue;
+ }
+
+ body {
+     background-color: cornflowerblue;
+ }
