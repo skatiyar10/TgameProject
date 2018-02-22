@@ -1,20 +1,51 @@
- p {
-     font-size: 10rem;
-     font-style: italic;
-     text-decoration: underline;
-     margin-left: -500px;
-     text-align: center;
-     text-shadow: 8px 8px;
- }
+#head {
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
 
- #gameCanvas {
-     width: 200rem;
-     height: 85rem;
-     margin-left: 10rem;
-     border: 100px dashed rgb(100, 29, 222);
-     box-shadow: 30px 30px cadetblue;
- }
+h1 {
+    font-size: 5rem;
+    font-style: bold;
+    text-shadow: 5px 5px;
+    color: floralwhite;
+}
 
- body {
-     background-color: cornflowerblue;
- }
+#Canvas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 2000px;
+    padding: 100px;
+}
+
+canvas {
+    border: 100px dashed rgb(100, 29, 222);
+    box-shadow: 30px 30px cadetblue;
+    width: 3000px;
+
+}
+
+body {
+    background-color: bisque;
+}
+
+.links {
+    padding-left: 100em;
+}
+
+
+a {
+    font-size: 100px;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+button {
+    border: 10px solid crimson;
+    border-radius: 100px;
+}

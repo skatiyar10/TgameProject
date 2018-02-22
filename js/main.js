@@ -14,7 +14,6 @@
   var paddle1Y = 250;
   var paddle2Y = 250;
   var PADDLE_THICKNESS = 10;
-
   const PADDLE_HEIGHT = 100;
 
   function calculateMousePos(evt) {
