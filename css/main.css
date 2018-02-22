@@ -25,7 +25,6 @@ h1 {
 
 canvas {
     border: 100px dashed rgb(100, 29, 222);
-    box-shadow: 30px 30px cadetblue;
     width: 3000px;
 
 }
@@ -43,9 +42,11 @@ a {
     font-size: 100px;
     font-family: fantasy;
     text-decoration: none;
+    color: steelblue;
 }
 
 button {
-    border: 10px solid crimson;
+    border: 10px solid green;
     border-radius: 100px;
+    
 }
