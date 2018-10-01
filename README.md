@@ -1,1 +1,1 @@
-js game proj
+js game project
