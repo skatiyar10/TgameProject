@@ -1,1 +1,1 @@
-is games ject.
+is game ject.
