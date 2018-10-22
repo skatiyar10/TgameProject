@@ -1,1 +1,1 @@
-js game project,,
+js game eject,,
