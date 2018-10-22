@@ -1,1 +1,1 @@
-js games project.
+is games project.
