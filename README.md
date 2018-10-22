@@ -1,1 +1,1 @@
-js game ejaculate,,
+js game eject,,
