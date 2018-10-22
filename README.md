@@ -1,1 +1,1 @@
-is game Project!
+is game Project!()
