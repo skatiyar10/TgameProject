@@ -1,2 +1,2 @@
-This fame has project 
+This game has project 
 
