@@ -1,1 +1,1 @@
-This it game reject
+This it game ejected
