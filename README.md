@@ -1,1 +1,1 @@
-This it game 
+This it game reject
