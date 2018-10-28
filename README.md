@@ -1,1 +1,1 @@
-This is game Project.
+This is a game Project.
